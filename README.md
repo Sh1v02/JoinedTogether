@@ -5,7 +5,7 @@ This is a 3D game, where you can control two different versions of yourself in t
 The game can be downloaded for free from:
 
 **WINDOWS**
-  - https://shiv02.itch.io/worldsaparttogether
+  - https://shiv02.itch.io/worldsaparttogether (Once downloaded, run the Unity executable)
 
 **MACOS**
   - https://drive.google.com/file/d/1INsGSOnrxR38GhBY2egoUyR3R727PEKO/view?usp=sharing
